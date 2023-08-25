@@ -1,1 +1,2 @@
 pycryptodome==3.18.0
+passlib==1.7.4
