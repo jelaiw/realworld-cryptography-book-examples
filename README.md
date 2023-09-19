@@ -8,3 +8,4 @@
 1. PyCryptodome Crypto.Hash.KMAC256. https://pycryptodome.readthedocs.io/en/latest/src/hash/kmac256.html.
 1. PyCryptodome GCM mode of operation. https://www.pycryptodome.org/src/cipher/modern#gcm-mode.
 1. pyca/cryptography DH parameter generation. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/dh/#diffie-hellman-key-exchange.
+2. PyCryptodome Crypto.Hash.TupleHash128. https://www.pycryptodome.org/src/hash/tuplehash128.
