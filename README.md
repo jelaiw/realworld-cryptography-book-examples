@@ -9,3 +9,4 @@
 1. PyCryptodome GCM mode of operation. https://www.pycryptodome.org/src/cipher/modern#gcm-mode.
 1. pyca/cryptography DH parameter generation. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/dh/#diffie-hellman-key-exchange.
 2. PyCryptodome Crypto.Hash.TupleHash128. https://www.pycryptodome.org/src/hash/tuplehash128.
+2. pyca/cryptography ECDH key exchange algorithm. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ec/#elliptic-curve-key-exchange-algorithm.
