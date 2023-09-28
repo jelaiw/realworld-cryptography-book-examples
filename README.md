@@ -11,3 +11,5 @@
 2. PyCryptodome Crypto.Hash.TupleHash128. https://www.pycryptodome.org/src/hash/tuplehash128.
 2. pyca/cryptography ECDH key exchange algorithm. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ec/#elliptic-curve-key-exchange-algorithm.
 2. PyCryptodome Crypto.PublicKey.ECC. https://www.pycryptodome.org/src/public_key/ecc#ecc.
+2. PyCryptodome Crypto.PublicKey.RSA. https://www.pycryptodome.org/src/public_key/rsa.
+2. PyCryptodome Crypto.Cipher.PKCS1_OAEP. https://www.pycryptodome.org/src/cipher/oaep.
