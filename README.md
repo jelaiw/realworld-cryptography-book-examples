@@ -13,3 +13,5 @@
 2. PyCryptodome Crypto.PublicKey.ECC. https://www.pycryptodome.org/src/public_key/ecc#ecc.
 2. PyCryptodome Crypto.PublicKey.RSA. https://www.pycryptodome.org/src/public_key/rsa.
 2. PyCryptodome Crypto.Cipher.PKCS1_OAEP. https://www.pycryptodome.org/src/cipher/oaep.
+2. "I want to exchange data". Google Tink, https://developers.google.com/tink/exchange-data#python.
+2. "Hybrid encryption". Google Tink, https://developers.google.com/tink/hybrid.
