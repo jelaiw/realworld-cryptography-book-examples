@@ -18,3 +18,4 @@
 2. Tink GitHub Repository. https://github.com/google/tink.
 2. Tink Python. https://github.com/tink-crypto/tink-py.
 2. pyca/cryptography Ed25519 signing. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ed25519/#signing-verification.
+2. Golang crypto/tls. https://pkg.go.dev/crypto/tls.
