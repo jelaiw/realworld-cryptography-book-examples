@@ -19,3 +19,4 @@
 2. Tink Python. https://github.com/tink-crypto/tink-py.
 2. pyca/cryptography Ed25519 signing. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ed25519/#signing-verification.
 2. Golang crypto/tls. https://pkg.go.dev/crypto/tls.
+2. OpenSSL x509 man page. https://www.openssl.org/docs/manmaster/man1/openssl-x509.html.
