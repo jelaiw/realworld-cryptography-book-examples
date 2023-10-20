@@ -20,3 +20,4 @@
 2. pyca/cryptography Ed25519 signing. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ed25519/#signing-verification.
 2. Golang crypto/tls. https://pkg.go.dev/crypto/tls.
 2. OpenSSL x509 man page. https://www.openssl.org/docs/manmaster/man1/openssl-x509.html.
+2. OpenSSL self-signed certificates. https://docs.python.org/3/library/ssl.html#self-signed-certificates.
