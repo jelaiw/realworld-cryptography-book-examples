@@ -21,3 +21,5 @@
 2. Golang crypto/tls. https://pkg.go.dev/crypto/tls.
 2. OpenSSL x509 man page. https://www.openssl.org/docs/manmaster/man1/openssl-x509.html.
 2. OpenSSL self-signed certificates. https://docs.python.org/3/library/ssl.html#self-signed-certificates.
+2. urandom man page. https://manpages.org/urandom/4.
+2. xxd man page. https://manpages.org/xxd.
