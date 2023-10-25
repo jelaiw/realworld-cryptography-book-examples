@@ -17,6 +17,7 @@
 2. "Hybrid encryption". Google Tink, https://developers.google.com/tink/hybrid.
 2. Tink GitHub Repository. https://github.com/google/tink.
 2. Tink Python. https://github.com/tink-crypto/tink-py.
+2. PyCryptodome RSA-PSS. https://www.pycryptodome.org/src/signature/pkcs1_pss.
 2. pyca/cryptography Ed25519 signing. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ed25519/#signing-verification.
 2. Golang crypto/tls. https://pkg.go.dev/crypto/tls.
 2. OpenSSL x509 man page. https://www.openssl.org/docs/manmaster/man1/openssl-x509.html.
