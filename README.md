@@ -24,3 +24,4 @@
 2. OpenSSL self-signed certificates. https://docs.python.org/3/library/ssl.html#self-signed-certificates.
 2. urandom man page. https://manpages.org/urandom/4.
 2. xxd man page. https://manpages.org/xxd.
+2. OpenSSL s_client man page. https://www.openssl.org/docs/man3.2/man1/openssl-s_client.html.
