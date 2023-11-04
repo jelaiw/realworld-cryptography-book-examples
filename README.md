@@ -15,7 +15,7 @@
 2. PyCryptodome Crypto.Cipher.PKCS1_OAEP. https://www.pycryptodome.org/src/cipher/oaep.
 2. "I want to exchange data". Google Tink, https://developers.google.com/tink/exchange-data#python.
 2. "Hybrid encryption". Google Tink, https://developers.google.com/tink/hybrid.
-2. Tink GitHub Repository. https://github.com/google/tink.
+2. Tink GitHub repository. https://github.com/google/tink.
 2. Tink Python. https://github.com/tink-crypto/tink-py.
 2. PyCryptodome RSA-PSS. https://www.pycryptodome.org/src/signature/pkcs1_pss.
 2. pyca/cryptography Ed25519 signing. https://cryptography.io/en/latest/hazmat/primitives/asymmetric/ed25519/#signing-verification.
@@ -25,3 +25,4 @@
 2. urandom man page. https://manpages.org/urandom/4.
 2. xxd man page. https://manpages.org/xxd.
 2. OpenSSL s_client man page. https://www.openssl.org/docs/man3.2/man1/openssl-s_client.html.
+2. PyOTP GitHub repository. https://github.com/pyauth/pyotp.
