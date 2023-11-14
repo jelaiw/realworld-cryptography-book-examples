@@ -26,3 +26,4 @@
 2. xxd man page. https://manpages.org/xxd.
 2. OpenSSL s_client man page. https://www.openssl.org/docs/man3.2/man1/openssl-s_client.html.
 2. PyOTP GitHub repository. https://github.com/pyauth/pyotp.
+2. PyCryptodome Shamir secret sharing scheme. https://www.pycryptodome.org/src/protocol/ss.
