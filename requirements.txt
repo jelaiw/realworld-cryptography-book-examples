@@ -2,3 +2,5 @@ pycryptodome==3.18.0
 passlib==1.7.4
 tink==1.8.0
 pyotp==2.9.0
+qrcode==8.0
+
